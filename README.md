@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npx create-next-app --example https://github.com/hellboy41785/nextjs-app-type test-template
+npx create-next-app --example https://github.com/hellboy41785/nextjs-dashboard-template test-template
 
 npm run dev
 # or
